@@ -13,7 +13,7 @@ This project is built with HTML, CSS and Vanilla JavaScript.
 - Vanilla JavaScript
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/zdrale/Responsive-Web-Page/master/index.html)
+[Live Demo Link](https://zdrale.github.io/Task_List/)
 
 ## Author
 
